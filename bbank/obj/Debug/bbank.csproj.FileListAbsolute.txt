@@ -1,0 +1,7 @@
+C:\Users\улюп\source\repos\bbank\bbank\bin\Debug\bbank.exe.config
+C:\Users\улюп\source\repos\bbank\bbank\bin\Debug\bbank.exe
+C:\Users\улюп\source\repos\bbank\bbank\bin\Debug\bbank.pdb
+C:\Users\улюп\source\repos\bbank\bbank\obj\Debug\bbank.csproj.AssemblyReference.cache
+C:\Users\улюп\source\repos\bbank\bbank\obj\Debug\bbank.csproj.CoreCompileInputs.cache
+C:\Users\улюп\source\repos\bbank\bbank\obj\Debug\bbank.exe
+C:\Users\улюп\source\repos\bbank\bbank\obj\Debug\bbank.pdb
